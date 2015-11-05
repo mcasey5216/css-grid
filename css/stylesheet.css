@@ -1,0 +1,68 @@
+.unicorn {
+  height: 50px;
+  background-color: red;
+  z-index: 1;
+  width: 50px;
+  position:absolute;
+}
+div.column .row {
+  width: 100%;
+  margin-bottom: 1%;
+  position:relative;
+  overflow: none;
+}
+.row {
+  width: 100%;
+  margin-bottom: 1%;
+  overflow: auto;
+  position:relative;
+}
+
+.box {
+  height: 50px;
+  background-color: blue;
+  width: 100%;
+}
+.column {
+  float: left;
+  margin: 0 0 0 1%;
+}
+.column:first-child {
+  margin: 0;
+}
+.one.column {
+  width: 7.416%;
+}
+.two.column {
+  width: 15.83%;
+}
+.three.column {
+  width: 24.25%;
+}
+.four.column {
+  width: 32.666%;
+}
+.five.column {
+  width: 39.3333%;
+}
+.six.column {
+  width: 49.5%;
+}
+.seven.column {
+  width: 56.6667%;
+}
+.eight.column {
+  width: 64%;
+}
+.nine.column {
+  width: 72%;
+}
+.ten.column {
+  width: 80%;
+}
+.eleven.column {
+  width: 88%;
+}
+.twelve.column {
+  width: 96%;
+}
